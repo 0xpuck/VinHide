@@ -5,7 +5,8 @@ This is part for newbranch
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 >The car history deletion site was developed responsively using React and Tailwind CSS to operate smoothly on desktop and mobile devices.
-
+>This is figma design.
+https://www.figma.com/file/VEI5cfWTSP6Q66tXWhsaIl/Car-History-Deletion-(Community)?type=design&node-id=0-1&mode=design&t=5MKkE4kQcRaWyUXA-0
 | <img src="./figures/Mobile Version.png"  height=960 width=72 alt="VinHide-Mobile Version"> | <img src="./figures/Landing Page.png" width=310 height=850 alt="VinHide Landing Page"> | <img src="./figures/POPUP CHECK VIN.png" height=190 width=326 alt="POPUP CHECK VIN Page"> | <img src="./figures/Privacy and FAQs.png" height=715 width=400 alt="Privacy & FAQs"> | <img src="./figures/Mobile Version (1).png" height=750 width=104 alt="VinHide-Mobile Version(1)"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
