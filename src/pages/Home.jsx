@@ -39,7 +39,7 @@ const Home = () => {
           headers: {
             "accept": "application/json",
             "content-type": "application/json",
-            "authorization": "Bearer AIXHOSqjU6sITJVZRvkcZuOJEQuOAp9Uzzm0By51dcgTu45vuXKyRXUHBvH4"
+            "authorization": ""
           },
         });
       
@@ -60,7 +60,7 @@ const Home = () => {
           headers: {
             "accept": "application/json",
             "content-type": "application/json",
-            "authorization": "Bearer AIXHOSqjU6sITJVZRvkcZuOJEQuOAp9Uzzm0By51dcgTu45vuXKyRXUHBvH4"
+            "authorization": ""
           },
         });
       
